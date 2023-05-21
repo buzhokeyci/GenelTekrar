@@ -1,0 +1,10 @@
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-15 GenelTekrar\2020-12-15 GenelTekrar\bin\Debug\2020-12-15 GenelTekrar.exe.config
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-15 GenelTekrar\2020-12-15 GenelTekrar\bin\Debug\2020-12-15 GenelTekrar.exe
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-15 GenelTekrar\2020-12-15 GenelTekrar\bin\Debug\2020-12-15 GenelTekrar.pdb
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-15 GenelTekrar\2020-12-15 GenelTekrar\obj\Debug\2020-12-15 GenelTekrar.csprojAssemblyReference.cache
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-15 GenelTekrar\2020-12-15 GenelTekrar\obj\Debug\_2020_12_15_GenelTekrar.Form1.resources
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-15 GenelTekrar\2020-12-15 GenelTekrar\obj\Debug\_2020_12_15_GenelTekrar.Properties.Resources.resources
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-15 GenelTekrar\2020-12-15 GenelTekrar\obj\Debug\2020-12-15 GenelTekrar.csproj.GenerateResource.cache
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-15 GenelTekrar\2020-12-15 GenelTekrar\obj\Debug\2020-12-15 GenelTekrar.csproj.CoreCompileInputs.cache
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-15 GenelTekrar\2020-12-15 GenelTekrar\obj\Debug\2020-12-15 GenelTekrar.exe
+C:\Assets\BA\YMS8333\2-C# Intro\2020-12-15 GenelTekrar\2020-12-15 GenelTekrar\obj\Debug\2020-12-15 GenelTekrar.pdb
